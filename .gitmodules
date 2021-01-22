@@ -1,0 +1,3 @@
+[submodule "catix_messages"]
+	path = catix_messages
+	url = https://github.com/CatixBot/Messages.git
